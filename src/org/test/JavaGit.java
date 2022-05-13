@@ -8,6 +8,10 @@ public class JavaGit {
 		}
 		else {
 		System.out.println("the value of b is:"+b);
+		int c=15;
+		if(a>c) {
+			System.out.println("Ais bigger than c: "+a+">"+c);
+		}
 	}
  }
 }
